@@ -1,7 +1,6 @@
 import requests
 import time
 import json
-import csv
 
 # ====================== 导入配置 ======================
 from config import AMAP_KEY, END_POINT, START_POINTS, TRAFFIC_MODES
